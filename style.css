@@ -1,0 +1,19 @@
+body {
+  padding-top: 70px;
+}
+
+
+.gallery-big{
+    height: 500px;
+    object-fit: cover;
+}
+
+.gallery-small{
+    height: 245px;
+    object-fit: cover;
+}
+
+.gallery-medium{
+    height: 245px;
+    object-fit: cover;
+}
